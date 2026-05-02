@@ -1,4 +1,4 @@
 # infomaxcollege.demo
 This is my first Git Repository.
 <br>
-Author - Nishan B.k.
+Author - Nishan(Infomax)
